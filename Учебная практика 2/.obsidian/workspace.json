@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструкция пользователя.md",
+                "file": "План разработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инструкция пользователя"
+              "title": "План разработки"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инструкция пользователя.md",
+                "file": "План разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Инструкция пользователя"
+              "title": "Обратные ссылки для План разработки"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Инструкция пользователя.md",
+                "file": "План разработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Инструкция пользователя"
+              "title": "Исходящие ссылки из План разработки"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инструкция пользователя.md",
+                "file": "План разработки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Инструкция пользователя"
+              "title": "Структура План разработки"
             }
           }
         ]
@@ -168,11 +168,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b0620bbab84580c9",
+  "active": "5fd3a2a17cd1fe6a",
   "lastOpenFiles": [
     "План внедрения.md",
-    "План разработки.md",
     "Инструкция пользователя.md",
+    "План разработки.md",
+    "Фото/Gant.png",
+    "Дигарамма.md",
+    "Руководство по внедрению.md",
     "Фото/Screenshot_27.png",
     "Фото/Screenshot_26.md",
     "Фото/Rashod.png",
