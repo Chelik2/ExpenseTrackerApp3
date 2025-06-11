@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "394fe76e597b8069",
+            "id": "b0620bbab84580c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инструкция пользователя.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Инструкция пользователя"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инструкция пользователя.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Инструкция пользователя"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Инструкция пользователя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Инструкция пользователя"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -142,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инструкция пользователя.md",
+                "file": "login.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Инструкция пользователя"
+              "title": "Структура login"
             }
           }
         ]
@@ -168,11 +162,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "394fe76e597b8069",
+  "active": "5fd3a2a17cd1fe6a",
   "lastOpenFiles": [
-    "Screenshot_27.png",
-    "Screenshot_26.png",
     "Screenshot_25.png",
+    "Screenshot_26.png",
+    "Screenshot_27.png",
+    "Инструкция пользователя.md",
     "login.png",
     "Постановка задач.md",
     "План внедрения.md"
